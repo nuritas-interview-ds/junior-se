@@ -21,9 +21,9 @@ Input: ["pep_1", "pep_10", "pep_2", "pep_7", "pep_14"]
 Output: ["pep_1", "pep_4", "pep_2", "pep_3", "pep_5"]
 
 Notes:
-- list is never empty
+- input list is never empty
 - it can have hundreds of thousands of entries
-- execution time over **all 5 datasets** should be **less than 1 minute**
+- execution time over **all datasets** should be **less than 1 minute**
 - input files contain one peptide per line, and the first line contains the number of peptides in the file
 
 ## Solution
